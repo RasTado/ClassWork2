@@ -5,7 +5,7 @@ documents = [
       ]
 
 directories = {
-      '1': ['2207 876234', '11-2', 'payment', 'metric'],
+      '1': ['2207 876234', '11-2', 'payment', 'metric', 'analitic'],
       '2': ['10006'],
       '3': []
     }
